@@ -1,0 +1,2 @@
+# TencentSpider
+scrapy框架CrawlSpider类TencentSpider
